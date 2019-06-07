@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "WisdomEra",
+    "email": "info@wisdomera.io"
+  },
+  "bugs": {
+    "url": "https://github.com/wisdomera/vue-datepicker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "flatpickr": "2.2.4"
+  },
+  "deprecated": false,
+  "description": "Wisdom Datepicker Component for Vue",
+  "homepage": "https://github.com/wisdomera/vue-datepicker/",
+  "keywords": [
+    "datepicker"
+  ],
+  "license": "GPLv3",
+  "main": "src/index.vue",
+  "name": "wisdom-vue-datepicker",
+  "peerDependencies": {
+    "vue": ">=2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisdomera/vue-datepicker.git"
+  },
+  "version": "1.0.1"
+}
